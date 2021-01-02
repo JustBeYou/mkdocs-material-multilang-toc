@@ -1,0 +1,2 @@
+mkdocs
+# mkdocs-material-insiders add your private url here
